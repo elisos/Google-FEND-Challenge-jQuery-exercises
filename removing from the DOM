@@ -1,0 +1,4 @@
+var articleItems;
+
+articleItems = $(".article-item ul");
+articleItems.remove();
